@@ -30,6 +30,8 @@ A list of cool things on the web.
    React library to detect long presses.
  - [react-spring](https://github.com/react-spring/react-spring)
    Spring based physics library for React.
+ - [react-waypoint](https://github.com/brigade/react-waypoint)
+   A React component to execute a function whenever you scroll to an element.
 
 ## Github Repos
  - [Inspire](https://github.com/NoahBuscher/Inspire)
