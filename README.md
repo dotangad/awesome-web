@@ -15,11 +15,13 @@ A list of cool things on the web.
  - [LogoRank](https://brandmark.io/logo-rank/)
    Grades logos based on uniqueness, legibility and color and contrast
  - [Google Fonts](https://fonts.google.com)
+   `<link href="https://fonts.googleapis.com/css?family=Family+Name:weight,weight|Second+Family+Name" rel="stylesheet">`
  - [CSS Box Shadow Generator](https://www.cssmatic.com/box-shadow)
    
 ## Fonts
  - [Inter UI](https://rsms.me/inter)
  - [Rubik](https://fonts.google.com/specimen/Rubik)
+ - [Work Sans](https://fonts.google.com/specimen/Work+Sans)
  
 ## Libraries
 ### Vanilla Javascript
