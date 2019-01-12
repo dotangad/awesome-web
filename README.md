@@ -1,5 +1,15 @@
 A list of cool things on the web.
 
+## TOC
+ - [Design Inspiration](https://github.com/dotangad/awesome-web#design-inspiration)
+ - [Portfolios/Personal Websites](https://github.com/dotangad/awesome-web#portfoliospersonal-websites)
+ - [Tools](https://github.com/dotangad/awesome-web#tools)
+ - [Fonts](https://github.com/dotangad/awesome-web#fonts)
+ - [Libraries](https://github.com/dotangad/awesome-web#libraries)
+   - [Vanilla Javascript](https://github.com/dotangad/awesome-web#vanilla-javascript)
+   - [React](https://github.com/dotangad/awesome-web#react)
+ - [Github Repos](https://github.com/dotangad/awesome-web#github-repo)
+
 ## Design Inspiration
  - [Oswald Labs Website](https://oswaldlabs.com)
  - [Naman Sood's Wikipedia Redesign](https://wikipedia.nsood.in)
@@ -27,7 +37,7 @@ A list of cool things on the web.
 ### Vanilla Javascript
  - [Animejs](https://animejs.com)
    Vanilla Javascript animation library which can animate close to anything.
- - 
+   
 ### React
  - [react-long](https://github.com/kitze/react-long)
    React library to detect long presses.
