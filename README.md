@@ -15,16 +15,16 @@ A list of cool things on the web.
  - [Naman Sood's Wikipedia Redesign](https://wikipedia.nsood.in)
 
 ## Portfolios/Personal Websites
- - [Kabir Goel](https://kabirgoel.com)
+ - [Kabir Goel](https://kabirgoel.com)  
    Minimal with little distractions, yet displays Kabir's skills and work perfectly. The skill component looks nice but I don't like it when people use relative units (bars, percentages) to convey their proficiency with something. Not using cards for projects was also something a little uncommon but this website does it well.
  - [Naman Sood](https://nsood.in)
    
 ## Tools
- - [FontAwesome](https://fontawesome.com)
+ - [FontAwesome](https://fontawesome.com)  
    `<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">`
- - [LogoRank](https://brandmark.io/logo-rank/)
+ - [LogoRank](https://brandmark.io/logo-rank/)  
    Grades logos based on uniqueness, legibility and color and contrast
- - [Google Fonts](https://fonts.google.com)
+ - [Google Fonts](https://fonts.google.com)  
    `<link href="https://fonts.googleapis.com/css?family=Family+Name:weight,weight|Second+Family+Name" rel="stylesheet">`
  - [CSS Box Shadow Generator](https://www.cssmatic.com/box-shadow)
    
@@ -35,17 +35,18 @@ A list of cool things on the web.
  
 ## Libraries
 ### Vanilla Javascript
- - [Animejs](https://animejs.com)
+ - [Animejs](https://animejs.com)  
    Vanilla Javascript animation library which can animate close to anything.
    
 ### React
- - [react-long](https://github.com/kitze/react-long)
+ - [react-long](https://github.com/kitze/react-long)  
    React library to detect long presses.
- - [react-spring](https://github.com/react-spring/react-spring)
+ - [react-spring](https://github.com/react-spring/react-spring)  
    Spring based physics library for React.
- - [react-waypoint](https://github.com/brigade/react-waypoint)
+ - [react-waypoint](https://github.com/brigade/react-waypoint)  
    A React component to execute a function whenever you scroll to an element.
 
 ## Github Repos
- - [Inspire](https://github.com/NoahBuscher/Inspire)
+ - [Inspire](https://github.com/NoahBuscher/Inspire)  
+   More inspiration
  - [UI/UX Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap)
