@@ -7,6 +7,7 @@ A list of cool things on the web.
 ## Portfolios/Personal Websites
  - [Kabir Goel](https://kabirgoel.com)
    Minimal with little distractions, yet displays Kabir's skills and work perfectly. The skill component looks nice but I don't like it when people use relative units (bars, percentages) to convey their proficiency with something. Not using cards for projects was also something a little uncommon but this website does it well.
+ - [Naman Sood](https://nsood.in)
    
 ## Tools
  - [FontAwesome](https://fontawesome.com)
